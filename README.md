@@ -1,3 +1,22 @@
+#Run the main.py with the following Instructions :
+For the data scrapping part :
+	Input the complete excel sheet path on like 19 to read the excel file and scrap that links in thr URL col.
+	make sure the website opens on the browser. (Some sites such URL no.44 were not opening and were 
+	giving erorr 404. There were total of 3-4 sites like this)
+
+	Please enter the path of the complete path folder where you want to save the scrapped files insert the path before '/{file_name}'
+
+
+online line 89 paste the complete path of the directory where the earlier scrapped files 
+were saved.
+
+For saving the data to excel: 
+in line 350 enter the complete path of the excel file in the variable 'source_filename'
+and make sure the workbook.save method is saving in the same filke as the source_filename as well
+the workbook.save method on line 373.
+
+-------------------------------------------------------------------
+
 # Data_Extraction_and_NLP
 The objective of this projectis to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below
 
