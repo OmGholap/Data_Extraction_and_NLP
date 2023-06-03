@@ -7,7 +7,7 @@ For the data scrapping part :
 	Please enter the path of the complete path folder where you want to save the scrapped files insert the path before '/{file_name}'
 
 
-online line 89 paste the complete path of the directory where the earlier scrapped files 
+On line 89 paste the complete path of the directory where the earlier scrapped files 
 were saved.
 
 For saving the data to excel: 
