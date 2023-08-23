@@ -1,9 +1,9 @@
 
 
-# Data_Extraction_and_NLP
+ Data_Extraction_and_NLP
 This Python script scrapes web articles, analyzes their linguistic attributes, and stores the results in an Excel file. It uses libraries like BeautifulSoup, requests, nltk, and pandas. The scraping extracts article content from URLs and saves it, while analysis calculates features such as positive/negative word scores, sentence length, complex word percentage, and more. This script showcases web scraping, text analysis, and data management skills.
 
-#2	Data Extraction
+2	Data Extraction
 Input.xlsx
 For each of the articles, given in the input.xlsx file, extract the article text and save the extracted article in a text file with URL_ID as its file name.
 While extracting text, please make sure your program extracts only the article title and the article text. It should not extract the website header, footer, or anything other than the article text. 
